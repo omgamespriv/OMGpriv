@@ -9,8 +9,8 @@ The main attractivity of OMG is perhaps the gambling games built on top of it su
 Specifications
 --------------
 
-Ticker: OMG
-Coin Type: Pure POS
-Block Target Time: 60 seconds
-Initial Supply: 40.000.000
-Stake reward: 5% per year
+- Ticker: OMG
+- Coin Type: Pure POS
+- Block Target Time: 60 seconds
+- Initial Supply: 40.000.000
+- Stake reward: 5% per year
