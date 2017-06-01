@@ -1,0 +1,9 @@
+Building Omg
+
+See doc/readme-qt.rst for instructions on building Omg QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Omg.
+
+See doc/build-*.txt for instructions on building omgd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Omg.
